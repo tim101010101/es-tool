@@ -5,6 +5,12 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/es-core/pom.xml" />
+        <option value="$PROJECT_DIR$/es-encryption/pom.xml" />
+        <option value="$PROJECT_DIR$/es-extra/pom.xml" />
+        <option value="$PROJECT_DIR$/es-http/pom.xml" />
+        <option value="$PROJECT_DIR$/es-json/pom.xml" />
+        <option value="$PROJECT_DIR$/es-log/pom.xml" />
+        <option value="$PROJECT_DIR$/es-hash/pom.xml" />
       </list>
     </option>
   </component>

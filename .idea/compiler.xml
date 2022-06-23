@@ -6,8 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="es-hash" />
+        <module name="es-log" />
         <module name="es-core" />
+        <module name="es-extra" />
+        <module name="es-json" />
+        <module name="es-http" />
+        <module name="es-encryption" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="encryption" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
