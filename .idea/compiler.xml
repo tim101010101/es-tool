@@ -12,6 +12,7 @@
         <module name="es-extra" />
         <module name="es-json" />
         <module name="es-http" />
+        <module name="share" />
         <module name="es-encryption" />
       </profile>
     </annotationProcessing>

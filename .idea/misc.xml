@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/es-json/pom.xml" />
         <option value="$PROJECT_DIR$/es-log/pom.xml" />
         <option value="$PROJECT_DIR$/es-hash/pom.xml" />
+        <option value="$PROJECT_DIR$/share/pom.xml" />
       </list>
     </option>
   </component>
